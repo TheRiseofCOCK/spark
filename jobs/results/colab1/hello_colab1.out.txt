@@ -1,1 +1,10 @@
-[status] RUNNING hello_colab1
+[status] ERROR in 0.0s
+
+Traceback (most recent call last):
+  File "/tmp/ipykernel_600/1146869902.py", line 66, in run_job
+    exec(code, {"__name__": "__worker__", "__job_id__": job_id})
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 14
+    bWUudGltZSgpKSkKcHJpbnQoImpvYiBjb21wbGV0ZSIpCg==
+                                                    ^
+SyntaxError: invalid syntax

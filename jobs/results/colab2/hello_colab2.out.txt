@@ -1,1 +1,9 @@
-[status] RUNNING hello_colab2
+[status] OK in 0.0s
+FL-COLAB WORKER HELLO from colab2
+python: 3.13.16
+torch: 2.14.1+cu130
+cuda available: True
+gpu: Tesla T4
+matmul ok: torch.Size([2048, 2048]) 19303.35546875
+job complete
+

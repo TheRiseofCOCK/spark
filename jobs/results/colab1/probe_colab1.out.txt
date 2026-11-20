@@ -1,4 +1,1 @@
-[status] OK in 0.0s
-probe colab1 alive at 1795203497.5374377
-cuda: True
-
+[status] RUNNING probe_colab1

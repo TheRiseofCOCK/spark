@@ -189,11 +189,13 @@ else:
 cfg = LoraConfig(r=16, lora_alpha=32, lora_dropout=0.05,
                  target_modules=TARGETS, task_type="CAUSAL_LM")
 model = AutoModelForCausalLM.from_pretrained(BASE, dtype=torch.float16).cuda()
+model.gradient_checkpointing_enable()   # T4 OOM guard for >0.5B targets
 model = get_peft_model(model, cfg)
 model.print_trainable_parameters()
 
 ds = BodyEmitter(train_pairs, tok)
-dl = DataLoader(ds, batch_size=4, shuffle=True, collate_fn=collate)
+BATCH = 2 if "1.1b" in BASE.lower() or "1_1b" in NAME.lower() else 4
+dl = DataLoader(ds, batch_size=BATCH, shuffle=True, collate_fn=collate)
 opt = torch.optim.AdamW(model.parameters(), lr=1e-4)
 model.train()
 for ep in range(3):

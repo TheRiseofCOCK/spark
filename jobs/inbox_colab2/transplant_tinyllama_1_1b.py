@@ -4,7 +4,7 @@ PAT = globals().get("PAT")      # injected by the worker cell
 REPO = globals().get("REPO")    # injected by the worker cell
 RELEASE_ID = "453106377"
 # ---- EDIT THESE TWO LINES PER JOB ----
-BASE = "TinyLlama/TinyLlama-1.1B"
+BASE = "TinyLlama/TinyLlama_v1.1"
 NAME = "tinyllama_1_1b"
 
 # ================= 1. download the data =================

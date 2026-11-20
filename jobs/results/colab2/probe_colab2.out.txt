@@ -1,1 +1,4 @@
-[status] RUNNING probe_colab2
+[status] OK in 0.0s
+probe colab2 alive at 1795203405.4948046
+cuda: True
+

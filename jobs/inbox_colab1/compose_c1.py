@@ -43,7 +43,7 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from peft import PeftModel
 
-BASE = "Qwen2.5-0.5B"
+BASE = "Qwen/Qwen2.5-0.5B"
 tok = AutoTokenizer.from_pretrained(BASE)
 model = AutoModelForCausalLM.from_pretrained(BASE, dtype=torch.float16).cuda()
 model = PeftModel.from_pretrained(model, "/content/data/adapter")

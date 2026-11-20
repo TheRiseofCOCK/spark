@@ -1,0 +1,3794 @@
+[
+ {
+  "task_id": "HumanEval_25",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 69
+ },
+ {
+  "task_id": "HumanEval_25",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 71
+ },
+ {
+  "task_id": "HumanEval_25",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_25",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_25",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_25",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_26",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_26",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_26",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_26",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_26",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_26",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_27",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 20
+ },
+ {
+  "task_id": "HumanEval_27",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 20
+ },
+ {
+  "task_id": "HumanEval_27",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 20
+ },
+ {
+  "task_id": "HumanEval_27",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 20
+ },
+ {
+  "task_id": "HumanEval_27",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_27",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 28
+ },
+ {
+  "task_id": "HumanEval_28",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_28",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_28",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 11
+ },
+ {
+  "task_id": "HumanEval_28",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_28",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_28",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 17
+ },
+ {
+  "task_id": "HumanEval_29",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 36
+ },
+ {
+  "task_id": "HumanEval_29",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 36
+ },
+ {
+  "task_id": "HumanEval_29",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 36
+ },
+ {
+  "task_id": "HumanEval_29",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 36
+ },
+ {
+  "task_id": "HumanEval_29",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 20
+ },
+ {
+  "task_id": "HumanEval_29",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 20
+ },
+ {
+  "task_id": "HumanEval_3",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_3",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_3",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_3",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_3",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_3",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_30",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_30",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_30",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_30",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_30",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_30",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_31",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_31",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 41
+ },
+ {
+  "task_id": "HumanEval_31",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 52
+ },
+ {
+  "task_id": "HumanEval_31",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 17
+ },
+ {
+  "task_id": "HumanEval_31",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_31",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 52
+ },
+ {
+  "task_id": "HumanEval_33",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_33",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 25
+ },
+ {
+  "task_id": "HumanEval_33",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_33",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 25
+ },
+ {
+  "task_id": "HumanEval_33",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 22
+ },
+ {
+  "task_id": "HumanEval_33",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 30
+ },
+ {
+  "task_id": "HumanEval_34",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_34",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_34",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_34",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_34",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_34",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_35",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_35",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 35
+ },
+ {
+  "task_id": "HumanEval_35",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_35",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_35",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_35",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_36",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_36",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_36",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_36",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 82
+ },
+ {
+  "task_id": "HumanEval_36",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_36",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_37",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_37",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_37",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_37",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_37",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_37",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_39",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_39",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_39",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_39",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_39",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_39",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 9
+ },
+ {
+  "task_id": "HumanEval_4",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 88
+ },
+ {
+  "task_id": "HumanEval_4",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 88
+ },
+ {
+  "task_id": "HumanEval_4",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 70
+ },
+ {
+  "task_id": "HumanEval_4",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_4",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_4",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_40",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_40",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_40",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_40",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_40",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 5
+ },
+ {
+  "task_id": "HumanEval_40",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 5
+ },
+ {
+  "task_id": "HumanEval_41",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_41",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_41",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_41",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_41",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 10
+ },
+ {
+  "task_id": "HumanEval_41",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 10
+ },
+ {
+  "task_id": "HumanEval_42",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 19
+ },
+ {
+  "task_id": "HumanEval_42",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 19
+ },
+ {
+  "task_id": "HumanEval_42",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 19
+ },
+ {
+  "task_id": "HumanEval_42",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_42",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 19
+ },
+ {
+  "task_id": "HumanEval_42",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 19
+ },
+ {
+  "task_id": "HumanEval_43",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_43",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_43",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_43",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_43",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 28
+ },
+ {
+  "task_id": "HumanEval_43",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_44",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_44",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_44",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_44",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 42
+ },
+ {
+  "task_id": "HumanEval_44",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_44",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_45",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 17
+ },
+ {
+  "task_id": "HumanEval_45",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 17
+ },
+ {
+  "task_id": "HumanEval_45",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_45",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 17
+ },
+ {
+  "task_id": "HumanEval_45",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 16
+ },
+ {
+  "task_id": "HumanEval_45",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 17
+ },
+ {
+  "task_id": "HumanEval_46",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_46",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_46",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 11
+ },
+ {
+  "task_id": "HumanEval_46",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_46",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 13
+ },
+ {
+  "task_id": "HumanEval_46",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 84
+ },
+ {
+  "task_id": "HumanEval_47",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 44
+ },
+ {
+  "task_id": "HumanEval_47",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 6
+ },
+ {
+  "task_id": "HumanEval_47",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 38
+ },
+ {
+  "task_id": "HumanEval_47",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_47",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 14
+ },
+ {
+  "task_id": "HumanEval_47",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 89
+ },
+ {
+  "task_id": "HumanEval_48",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_48",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_48",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 19
+ },
+ {
+  "task_id": "HumanEval_48",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_48",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 17
+ },
+ {
+  "task_id": "HumanEval_48",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 17
+ },
+ {
+  "task_id": "HumanEval_49",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_49",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_49",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 15
+ },
+ {
+  "task_id": "HumanEval_49",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_49",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 9
+ },
+ {
+  "task_id": "HumanEval_49",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 34
+ },
+ {
+  "task_id": "HumanEval_5",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 72
+ },
+ {
+  "task_id": "HumanEval_5",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 72
+ },
+ {
+  "task_id": "HumanEval_5",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 72
+ },
+ {
+  "task_id": "HumanEval_5",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 72
+ },
+ {
+  "task_id": "HumanEval_5",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 72
+ },
+ {
+  "task_id": "HumanEval_5",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 72
+ },
+ {
+  "task_id": "HumanEval_51",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 9
+ },
+ {
+  "task_id": "HumanEval_51",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 9
+ },
+ {
+  "task_id": "HumanEval_51",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 69
+ },
+ {
+  "task_id": "HumanEval_51",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 69
+ },
+ {
+  "task_id": "HumanEval_51",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 70
+ },
+ {
+  "task_id": "HumanEval_51",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 63
+ },
+ {
+  "task_id": "HumanEval_52",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 15
+ },
+ {
+  "task_id": "HumanEval_52",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 15
+ },
+ {
+  "task_id": "HumanEval_52",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 15
+ },
+ {
+  "task_id": "HumanEval_52",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 15
+ },
+ {
+  "task_id": "HumanEval_52",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 15
+ },
+ {
+  "task_id": "HumanEval_52",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 21
+ },
+ {
+  "task_id": "HumanEval_53",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_53",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_53",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 8
+ },
+ {
+  "task_id": "HumanEval_53",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_53",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_53",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 24
+ },
+ {
+  "task_id": "HumanEval_54",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 32
+ },
+ {
+  "task_id": "HumanEval_54",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 32
+ },
+ {
+  "task_id": "HumanEval_54",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 24
+ },
+ {
+  "task_id": "HumanEval_54",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 48
+ },
+ {
+  "task_id": "HumanEval_54",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_54",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 24
+ },
+ {
+  "task_id": "HumanEval_55",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 51
+ },
+ {
+  "task_id": "HumanEval_55",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 51
+ },
+ {
+  "task_id": "HumanEval_55",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 51
+ },
+ {
+  "task_id": "HumanEval_55",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 51
+ },
+ {
+  "task_id": "HumanEval_55",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 51
+ },
+ {
+  "task_id": "HumanEval_55",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 50
+ },
+ {
+  "task_id": "HumanEval_56",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 5
+ },
+ {
+  "task_id": "HumanEval_56",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_56",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_56",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_56",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 12
+ },
+ {
+  "task_id": "HumanEval_56",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 63
+ },
+ {
+  "task_id": "HumanEval_57",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 12
+ },
+ {
+  "task_id": "HumanEval_57",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 12
+ },
+ {
+  "task_id": "HumanEval_57",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 24
+ },
+ {
+  "task_id": "HumanEval_57",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 24
+ },
+ {
+  "task_id": "HumanEval_57",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 30
+ },
+ {
+  "task_id": "HumanEval_57",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 30
+ },
+ {
+  "task_id": "HumanEval_58",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 7
+ },
+ {
+  "task_id": "HumanEval_58",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 7
+ },
+ {
+  "task_id": "HumanEval_58",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 7
+ },
+ {
+  "task_id": "HumanEval_58",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 7
+ },
+ {
+  "task_id": "HumanEval_58",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 7
+ },
+ {
+  "task_id": "HumanEval_58",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 7
+ },
+ {
+  "task_id": "HumanEval_59",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_59",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 35
+ },
+ {
+  "task_id": "HumanEval_59",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_59",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_59",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 34
+ },
+ {
+  "task_id": "HumanEval_59",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_6",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_6",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 95
+ },
+ {
+  "task_id": "HumanEval_6",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_6",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_6",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_6",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_60",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 18
+ },
+ {
+  "task_id": "HumanEval_60",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 18
+ },
+ {
+  "task_id": "HumanEval_60",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_60",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_60",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_60",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 9
+ },
+ {
+  "task_id": "HumanEval_61",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_61",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_61",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 12
+ },
+ {
+  "task_id": "HumanEval_61",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 51
+ },
+ {
+  "task_id": "HumanEval_61",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 5
+ },
+ {
+  "task_id": "HumanEval_61",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 51
+ },
+ {
+  "task_id": "HumanEval_62",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 31
+ },
+ {
+  "task_id": "HumanEval_62",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 31
+ },
+ {
+  "task_id": "HumanEval_62",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 31
+ },
+ {
+  "task_id": "HumanEval_62",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 31
+ },
+ {
+  "task_id": "HumanEval_62",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 31
+ },
+ {
+  "task_id": "HumanEval_62",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 27
+ },
+ {
+  "task_id": "HumanEval_63",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 6
+ },
+ {
+  "task_id": "HumanEval_63",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 80
+ },
+ {
+  "task_id": "HumanEval_63",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 39
+ },
+ {
+  "task_id": "HumanEval_63",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_63",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 7
+ },
+ {
+  "task_id": "HumanEval_63",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 80
+ },
+ {
+  "task_id": "HumanEval_64",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 98
+ },
+ {
+  "task_id": "HumanEval_64",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_64",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_64",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_64",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_64",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 81
+ },
+ {
+  "task_id": "HumanEval_65",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_65",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_65",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 72
+ },
+ {
+  "task_id": "HumanEval_65",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_65",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_65",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_66",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_66",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_66",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 22
+ },
+ {
+  "task_id": "HumanEval_66",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 22
+ },
+ {
+  "task_id": "HumanEval_66",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 51
+ },
+ {
+  "task_id": "HumanEval_66",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_67",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_67",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_67",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_67",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_67",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_67",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_68",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 87
+ },
+ {
+  "task_id": "HumanEval_68",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_68",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 10
+ },
+ {
+  "task_id": "HumanEval_68",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_68",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_68",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_69",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_69",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_69",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_69",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_69",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_69",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_7",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 32
+ },
+ {
+  "task_id": "HumanEval_7",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 28
+ },
+ {
+  "task_id": "HumanEval_7",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 23
+ },
+ {
+  "task_id": "HumanEval_7",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 23
+ },
+ {
+  "task_id": "HumanEval_7",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_7",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 50
+ },
+ {
+  "task_id": "HumanEval_70",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 92
+ },
+ {
+  "task_id": "HumanEval_70",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 11
+ },
+ {
+  "task_id": "HumanEval_70",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_70",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 92
+ },
+ {
+  "task_id": "HumanEval_70",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_70",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_71",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_71",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 30
+ },
+ {
+  "task_id": "HumanEval_71",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 30
+ },
+ {
+  "task_id": "HumanEval_71",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_71",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 30
+ },
+ {
+  "task_id": "HumanEval_71",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_72",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 27
+ },
+ {
+  "task_id": "HumanEval_72",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 27
+ },
+ {
+  "task_id": "HumanEval_72",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 27
+ },
+ {
+  "task_id": "HumanEval_72",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 27
+ },
+ {
+  "task_id": "HumanEval_72",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 27
+ },
+ {
+  "task_id": "HumanEval_72",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 27
+ },
+ {
+  "task_id": "HumanEval_73",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 78
+ },
+ {
+  "task_id": "HumanEval_73",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 17
+ },
+ {
+  "task_id": "HumanEval_73",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_73",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 78
+ },
+ {
+  "task_id": "HumanEval_73",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 23
+ },
+ {
+  "task_id": "HumanEval_73",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_74",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 84
+ },
+ {
+  "task_id": "HumanEval_74",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 84
+ },
+ {
+  "task_id": "HumanEval_74",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 84
+ },
+ {
+  "task_id": "HumanEval_74",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 84
+ },
+ {
+  "task_id": "HumanEval_74",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 66
+ },
+ {
+  "task_id": "HumanEval_74",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 66
+ },
+ {
+  "task_id": "HumanEval_75",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_75",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_75",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_75",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_75",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_75",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_76",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_76",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_76",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 63
+ },
+ {
+  "task_id": "HumanEval_76",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_76",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_76",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_77",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 29
+ },
+ {
+  "task_id": "HumanEval_77",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 9
+ },
+ {
+  "task_id": "HumanEval_77",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 38
+ },
+ {
+  "task_id": "HumanEval_77",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_77",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 38
+ },
+ {
+  "task_id": "HumanEval_77",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_78",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_78",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_78",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_78",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_78",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_78",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_79",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 16
+ },
+ {
+  "task_id": "HumanEval_79",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 16
+ },
+ {
+  "task_id": "HumanEval_79",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 16
+ },
+ {
+  "task_id": "HumanEval_79",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 16
+ },
+ {
+  "task_id": "HumanEval_79",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 16
+ },
+ {
+  "task_id": "HumanEval_79",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_8",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 55
+ },
+ {
+  "task_id": "HumanEval_8",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 55
+ },
+ {
+  "task_id": "HumanEval_8",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 55
+ },
+ {
+  "task_id": "HumanEval_8",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 55
+ },
+ {
+  "task_id": "HumanEval_8",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 55
+ },
+ {
+  "task_id": "HumanEval_8",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 55
+ },
+ {
+  "task_id": "HumanEval_80",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_80",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 24
+ },
+ {
+  "task_id": "HumanEval_80",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_80",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_80",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_80",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 92
+ },
+ {
+  "task_id": "HumanEval_81",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 58
+ },
+ {
+  "task_id": "HumanEval_81",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 58
+ },
+ {
+  "task_id": "HumanEval_81",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 58
+ },
+ {
+  "task_id": "HumanEval_81",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 58
+ },
+ {
+  "task_id": "HumanEval_81",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 58
+ },
+ {
+  "task_id": "HumanEval_81",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_82",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 84
+ },
+ {
+  "task_id": "HumanEval_82",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_82",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_82",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_82",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_82",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 85
+ },
+ {
+  "task_id": "HumanEval_83",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_83",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_83",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 37
+ },
+ {
+  "task_id": "HumanEval_83",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 37
+ },
+ {
+  "task_id": "HumanEval_83",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 5
+ },
+ {
+  "task_id": "HumanEval_83",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 36
+ },
+ {
+  "task_id": "HumanEval_84",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 5
+ },
+ {
+  "task_id": "HumanEval_84",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 30
+ },
+ {
+  "task_id": "HumanEval_84",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_84",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 49
+ },
+ {
+  "task_id": "HumanEval_84",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_84",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_85",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_85",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 23
+ },
+ {
+  "task_id": "HumanEval_85",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_85",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_85",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 59
+ },
+ {
+  "task_id": "HumanEval_85",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_86",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 24
+ },
+ {
+  "task_id": "HumanEval_86",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 35
+ },
+ {
+  "task_id": "HumanEval_86",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 15
+ },
+ {
+  "task_id": "HumanEval_86",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 42
+ },
+ {
+  "task_id": "HumanEval_86",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 42
+ },
+ {
+  "task_id": "HumanEval_86",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 30
+ },
+ {
+  "task_id": "HumanEval_87",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_87",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_87",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 9
+ },
+ {
+  "task_id": "HumanEval_87",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_87",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_87",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_88",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_88",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 5
+ },
+ {
+  "task_id": "HumanEval_88",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_88",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 23
+ },
+ {
+  "task_id": "HumanEval_88",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 30
+ },
+ {
+  "task_id": "HumanEval_88",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 55
+ },
+ {
+  "task_id": "HumanEval_89",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 33
+ },
+ {
+  "task_id": "HumanEval_89",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 15
+ },
+ {
+  "task_id": "HumanEval_89",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_89",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 33
+ },
+ {
+  "task_id": "HumanEval_89",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 84
+ },
+ {
+  "task_id": "HumanEval_89",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_9",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_9",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_9",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_9",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_9",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_9",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_90",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 34
+ },
+ {
+  "task_id": "HumanEval_90",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_90",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_90",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_90",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_90",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_91",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 39
+ },
+ {
+  "task_id": "HumanEval_91",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_91",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 16
+ },
+ {
+  "task_id": "HumanEval_91",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 39
+ },
+ {
+  "task_id": "HumanEval_91",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_91",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_92",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 72
+ },
+ {
+  "task_id": "HumanEval_92",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 72
+ },
+ {
+  "task_id": "HumanEval_92",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 90
+ },
+ {
+  "task_id": "HumanEval_92",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 90
+ },
+ {
+  "task_id": "HumanEval_92",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 72
+ },
+ {
+  "task_id": "HumanEval_92",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 72
+ },
+ {
+  "task_id": "HumanEval_93",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 46
+ },
+ {
+  "task_id": "HumanEval_93",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 60
+ },
+ {
+  "task_id": "HumanEval_93",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 57
+ },
+ {
+  "task_id": "HumanEval_93",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 57
+ },
+ {
+  "task_id": "HumanEval_93",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 24
+ },
+ {
+  "task_id": "HumanEval_93",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 24
+ },
+ {
+  "task_id": "HumanEval_94",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_94",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_94",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_94",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 18
+ },
+ {
+  "task_id": "HumanEval_94",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_94",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_95",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_95",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_95",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_95",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_95",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_95",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_96",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_96",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 3
+ },
+ {
+  "task_id": "HumanEval_96",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 4
+ },
+ {
+  "task_id": "HumanEval_96",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 100
+ },
+ {
+  "task_id": "HumanEval_96",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_96",
+  "composed": false,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 38
+ },
+ {
+  "task_id": "HumanEval_97",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 42
+ },
+ {
+  "task_id": "HumanEval_97",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 42
+ },
+ {
+  "task_id": "HumanEval_97",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 42
+ },
+ {
+  "task_id": "HumanEval_97",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 42
+ },
+ {
+  "task_id": "HumanEval_97",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 42
+ },
+ {
+  "task_id": "HumanEval_97",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 42
+ },
+ {
+  "task_id": "HumanEval_98",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 63
+ },
+ {
+  "task_id": "HumanEval_98",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 2
+ },
+ {
+  "task_id": "HumanEval_98",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 23
+ },
+ {
+  "task_id": "HumanEval_98",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_98",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 17
+ },
+ {
+  "task_id": "HumanEval_98",
+  "composed": true,
+  "graph_atomic": true,
+  "shuffled": true,
+  "trivial": false,
+  "n_cands": 1
+ },
+ {
+  "task_id": "HumanEval_99",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 38
+ },
+ {
+  "task_id": "HumanEval_99",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 35
+ },
+ {
+  "task_id": "HumanEval_99",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 39
+ },
+ {
+  "task_id": "HumanEval_99",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 38
+ },
+ {
+  "task_id": "HumanEval_99",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 39
+ },
+ {
+  "task_id": "HumanEval_99",
+  "composed": false,
+  "graph_atomic": false,
+  "shuffled": false,
+  "trivial": false,
+  "n_cands": 35
+ }
+]

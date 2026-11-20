@@ -1,0 +1,10 @@
+{
+  "base": "EleutherAI/pythia-410m",
+  "name": "pythia_410m",
+  "tag": "verdict",
+  "source_floor": 0.7616,
+  "prompted_baseline": 0.06962025316455696,
+  "reformed": 0.1350210970464135,
+  "survives_floor": false,
+  "beats_prompted": true
+}

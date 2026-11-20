@@ -1,1 +1,42 @@
-[status] RUNNING compose_c1
+[status] OK in 1145.4s
+downloaded interpreter.py (13853 bytes)
+downloaded compose_c1_candidates.json (4105061 bytes)
+downloaded adapter_model.safetensors (35237104 bytes)
+downloaded adapter_config.json (1197 bytes)
+data ready
+/usr/local/lib/python3.13/dist-packages/peft/config.py:220: UserWarning: Unexpected keyword arguments ['astra_config'] for class LoraConfig, these are ignored. This probably means that you're loading a configuration file that was saved using a higher version of the library and additional parameters have been introduced since. It is highly recommended to upgrade the PEFT version before continuing (e.g. by running `pip install -U peft`).
+  warnings.warn(
+scaffold loaded
+cases: 474
+[25/474] composed=13 graph_atomic=14 (64s)
+[50/474] composed=28 graph_atomic=30 (96s)
+[75/474] composed=46 graph_atomic=48 (133s)
+[100/474] composed=59 graph_atomic=62 (190s)
+[125/474] composed=69 graph_atomic=72 (229s)
+[150/474] composed=83 graph_atomic=87 (289s)
+[175/474] composed=83 graph_atomic=93 (360s)
+[200/474] composed=91 graph_atomic=101 (412s)
+[225/474] composed=110 graph_atomic=121 (455s)
+[250/474] composed=122 graph_atomic=133 (515s)
+[275/474] composed=136 graph_atomic=148 (584s)
+[300/474] composed=144 graph_atomic=159 (656s)
+[325/474] composed=155 graph_atomic=170 (760s)
+[350/474] composed=167 graph_atomic=182 (803s)
+[375/474] composed=181 graph_atomic=196 (866s)
+[400/474] composed=195 graph_atomic=212 (917s)
+[425/474] composed=212 graph_atomic=232 (953s)
+[450/474] composed=218 graph_atomic=240 (1063s)
+{
+ "experiment": "E_COMPOSE_1_C1",
+ "n": 474,
+ "composed_rate": 0.4767932489451477,
+ "graph_atomic_rate": 0.5253164556962026,
+ "scaffold_published_rate": 0.7616,
+ "shuffled_control_rate": 0.27848101265822783,
+ "trivial_control_rate": 0.0,
+ "floor_composed": 0.7616,
+ "kill_below": 0.5253,
+ "survives": false
+}
+C1_DONE
+

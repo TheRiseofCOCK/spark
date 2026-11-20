@@ -1,0 +1,12 @@
+{
+ "experiment": "E_COMPOSE_1_C1",
+ "n": 474,
+ "composed_rate": 0.4767932489451477,
+ "graph_atomic_rate": 0.5253164556962026,
+ "scaffold_published_rate": 0.7616,
+ "shuffled_control_rate": 0.27848101265822783,
+ "trivial_control_rate": 0.0,
+ "floor_composed": 0.7616,
+ "kill_below": 0.5253,
+ "survives": false
+}

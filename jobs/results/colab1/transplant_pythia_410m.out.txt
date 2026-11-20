@@ -1,1 +1,35 @@
-[status] RUNNING transplant_pythia_410m
+[status] OK in 2077.2s
+release assets: ['heldout_B.jsonl', 'humaneval_tasks.zip', 'train_A.jsonl']
+data ready: ['train_A.jsonl', 'humaneval_tasks.zip', 'heldout_B.jsonl', 'humaneval_tasks']
+train=467 heldout=474
+=== loading base model for the prompted baseline ===
+  [prompted_baseline] 8/474
+  [prompted_baseline] 88/474
+  [prompted_baseline] 168/474
+  [prompted_baseline] 248/474
+  [prompted_baseline] 328/474
+  [prompted_baseline] 408/474
+[prompted_baseline] repair_rate=0.0696 (n=474)
+=== re-forming with the recipe (LoRA r=16) ===
+trainable params: 4,325,376 || all params: 409,659,392 || trainable%: 1.0558
+epoch=0 mean_loss=0.1364
+epoch=1 mean_loss=0.1184
+epoch=2 mean_loss=0.0969
+adapter saved
+  [reformed] 8/474
+  [reformed] 88/474
+  [reformed] 168/474
+  [reformed] 248/474
+  [reformed] 328/474
+  [reformed] 408/474
+[reformed] repair_rate=0.1350 (n=474)
+{
+  "base": "EleutherAI/pythia-410m",
+  "name": "pythia_410m",
+  "source_floor": 0.7616,
+  "prompted_baseline": 0.06962025316455696,
+  "reformed": 0.1350210970464135,
+  "survives_floor": false,
+  "beats_prompted": true
+}
+

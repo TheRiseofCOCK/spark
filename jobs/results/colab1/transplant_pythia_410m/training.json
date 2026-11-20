@@ -1,0 +1,7 @@
+{
+  "base": "EleutherAI/pythia-410m",
+  "name": "pythia_410m",
+  "tag": "training",
+  "epochs_done": 3,
+  "last_loss": 0.09694391982550295
+}

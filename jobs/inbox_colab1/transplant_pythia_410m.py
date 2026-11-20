@@ -1,5 +1,9 @@
 import os, json, subprocess, sys, tempfile, time, urllib.request, base64, zipfile
 
+# the Colab peft/torchao mismatch: drop torchao so peft takes the default path
+subprocess.run([sys.executable, "-m", "pip", "uninstall", "-y", "torchao"],
+               capture_output=True)
+
 PAT = globals().get("PAT")      # injected by the worker cell
 REPO = globals().get("REPO")    # injected by the worker cell
 RELEASE_ID = "453106377"
@@ -176,10 +180,14 @@ def collate(batch):
     return {"input_ids": ids, "attention_mask": mask, "labels": labels}
 
 torch.manual_seed(SEED)
+if "pythia" in BASE.lower():
+    # GPTNeoX: fused QKV + attention/MLP dense layers
+    TARGETS = ["query_key_value", "dense", "dense_h_to_4hf", "dense_4h_to_h"]
+else:
+    TARGETS = ["q_proj", "k_proj", "v_proj", "o_proj",
+               "gate_proj", "up_proj", "down_proj"]
 cfg = LoraConfig(r=16, lora_alpha=32, lora_dropout=0.05,
-                 target_modules=["q_proj", "k_proj", "v_proj", "o_proj",
-                                 "gate_proj", "up_proj", "down_proj"],
-                 task_type="CAUSAL_LM")
+                 target_modules=TARGETS, task_type="CAUSAL_LM")
 model = AutoModelForCausalLM.from_pretrained(BASE, dtype=torch.float16).cuda()
 model = get_peft_model(model, cfg)
 model.print_trainable_parameters()

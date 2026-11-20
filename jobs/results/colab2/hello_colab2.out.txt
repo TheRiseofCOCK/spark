@@ -4,6 +4,6 @@ python: 3.13.16
 torch: 2.14.1+cu130
 cuda available: True
 gpu: Tesla T4
-matmul ok: torch.Size([2048, 2048]) 149799.28125
+matmul ok: torch.Size([2048, 2048]) 168242.1875
 job complete
 

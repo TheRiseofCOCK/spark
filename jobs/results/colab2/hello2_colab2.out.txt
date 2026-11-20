@@ -1,6 +1,1 @@
-[status] OK in 3.6s
-FL-COLAB WORKER v2 hello from colab2
-torch: 2.14.1+cu130 | cuda: True
-gpu: Tesla T4
-job complete
-
+[status] RUNNING hello2_colab2

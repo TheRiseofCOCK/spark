@@ -103,7 +103,7 @@ def eval_model(model, tok, tag, limit=0):
     tok.padding_side = "left"
     inps = [build_input(r) for r in cases]
     texts = []
-    bs = 8
+    bs = 2 if "1_1b" in NAME or "1.1b" in BASE.lower() else 8
     model.eval()
     for j in range(0, len(inps), bs):
         chunk = inps[j:j + bs]

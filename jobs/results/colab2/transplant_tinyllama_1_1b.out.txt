@@ -1,1 +1,99 @@
-[status] RUNNING transplant_tinyllama_1_1b
+[status] ERROR in 8.4s
+release assets: ['heldout_B.jsonl', 'humaneval_tasks.zip', 'train_A.jsonl']
+downloaded train_A.jsonl (856156 bytes)
+downloaded heldout_B.jsonl (818777 bytes)
+downloaded humaneval_tasks.zip (29620 bytes)
+data ready: ['train_A.jsonl', 'humaneval_tasks.zip', 'heldout_B.jsonl', 'humaneval_tasks']
+train=467 heldout=474
+=== loading base model for the prompted baseline ===
+
+httpx.HTTPStatusError: Client error '401 Unauthorized' for url 'https://huggingface.co/TinyLlama/TinyLlama-1.1B/resolve/main/config.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+
+The above exception was the direct cause of the following exception:
+
+huggingface_hub.errors.RepositoryNotFoundError: 401 Client Error. (Request ID: Root=1-6b00ac22-3de078447b28aaa267e928f2;11c30546-1364-4efc-9020-f9f0baf3af5b)
+
+Repository Not Found for url: https://huggingface.co/TinyLlama/TinyLlama-1.1B/resolve/main/config.json.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated and your token has the required permissions.
+For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+Invalid username or password.
+
+The above exception was the direct cause of the following exception:
+
+OSError: TinyLlama/TinyLlama-1.1B is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `hf auth login` or by passing `token=<your_token>`
+
+During handling of the above exception, another exception occurred:
+
+httpx.HTTPStatusError: Client error '401 Unauthorized' for url 'https://huggingface.co/TinyLlama/TinyLlama-1.1B/resolve/main/config.json'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.13/dist-packages/transformers/utils/hub.py", line 537, in cached_files
+    hf_hub_download(
+    ~~~~~~~~~~~~~~~^
+        path_or_repo_id,
+        ^^^^^^^^^^^^^^^^
+    ...<10 lines>...
+        tqdm_class=tqdm_class,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/local/lib/python3.13/dist-packages/huggingface_hub/utils/_validators.py", line 89, in _inner_fn
+    return fn(*args, **kwargs)
+  File "/usr/local/lib/python3.13/dist-packages/huggingface_hub/utils/_http.py", line 266, in _inner
+    return fn(*args, **kwargs)
+  File "/usr/local/lib/python3.13/dist-packages/huggingface_hub/file_download.py", line 1047, in hf_hub_download
+    return _hf_hub_download_to_cache_dir(
+        # Destination
+    ...<15 lines>...
+        dry_run=dry_run,
+    )
+  File "/usr/local/lib/python3.13/dist-packages/huggingface_hub/file_download.py", line 1194, in _hf_hub_download_to_cache_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/dist-packages/huggingface_hub/file_download.py", line 1953, in _raise_on_head_call_error
+    raise head_call_error
+huggingface_hub.errors.RepositoryNotFoundError: 401 Client Error. (Request ID: Root=1-6b00ac22-710678d671c6af1125802ca0;32d0f55a-9dfc-4616-8f56-112a67c247af)
+
+Repository Not Found for url: https://huggingface.co/TinyLlama/TinyLlama-1.1B/resolve/main/config.json.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated and your token has the required permissions.
+For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+Invalid username or password.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/tmp/ipykernel_3704/3945701964.py", line 85, in run_job
+    exec(code, {"__name__": "__worker__", "__job_id__": job_id,
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                "PAT": PAT, "REPO": REPO})
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 138, in <module>
+  File "/usr/local/lib/python3.13/dist-packages/transformers/models/auto/tokenization_auto.py", line 807, in from_pretrained
+    config = PreTrainedConfig.from_pretrained(pretrained_model_name_or_path, **kwargs)
+  File "/usr/local/lib/python3.13/dist-packages/transformers/configuration_utils.py", line 883, in from_pretrained
+    config_dict, kwargs = cls.get_config_dict(pretrained_model_name_or_path, **kwargs)
+                          ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/dist-packages/transformers/configuration_utils.py", line 933, in get_config_dict
+    config_dict, kwargs = cls._get_config_dict(pretrained_model_name_or_path, **kwargs)
+                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.13/dist-packages/transformers/configuration_utils.py", line 985, in _get_config_dict
+    resolved_config_file = cached_file(
+        pretrained_model_name_or_path,
+    ...<8 lines>...
+        subfolder=subfolder,
+    )
+  File "/usr/local/lib/python3.13/dist-packages/transformers/utils/hub.py", line 370, in cached_file
+    file = cached_files(path_or_repo_id=path_or_repo_id, filenames=[filename], **kwargs)
+  File "/usr/local/lib/python3.13/dist-packages/transformers/utils/hub.py", line 569, in cached_files
+    raise OSError(
+    ...<4 lines>...
+    ) from e
+OSError: TinyLlama/TinyLlama-1.1B is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `hf auth login` or by passing `token=<your_token>`

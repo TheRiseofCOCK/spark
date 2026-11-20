@@ -1,0 +1,2855 @@
+{
+  "base": "EleutherAI/pythia-410m",
+  "name": "pythia_410m",
+  "tag": "reformed",
+  "verdict": {
+    "n": 474,
+    "repair_rate": 0.135
+  },
+  "cases": [
+    {
+      "task_id": "HumanEval_25",
+      "bug_class": "missing-guard",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_25",
+      "bug_class": "missing-guard",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_25",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_25",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_25",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_25",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_26",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_26",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_26",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_26",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_26",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_26",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_27",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_27",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_27",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_27",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_27",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_27",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_28",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_28",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_28",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_28",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_28",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_28",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_29",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_29",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_29",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_29",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_29",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_29",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_3",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_3",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_3",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_3",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_3",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_3",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_30",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_30",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_30",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_30",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_30",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_30",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_31",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_31",
+      "bug_class": "missing-guard",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_31",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_31",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_31",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_31",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_33",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_33",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_33",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_33",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_33",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_33",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_34",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_34",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_34",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_34",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_34",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_34",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_35",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_35",
+      "bug_class": "missing-guard",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_35",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_35",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_35",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_35",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_36",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_36",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_36",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_36",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_36",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_36",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_37",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_37",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_37",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_37",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_37",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_37",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_39",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_39",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_39",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_39",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_39",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_39",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_4",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_4",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_4",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_4",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_4",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_4",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_40",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_40",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_40",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_40",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_40",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_40",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_41",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_41",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_41",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_41",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_41",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_41",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_42",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_42",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_42",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_42",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_42",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_42",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_43",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_43",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_43",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_43",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_43",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_43",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_44",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_44",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_44",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_44",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_44",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_44",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_45",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_45",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_45",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_45",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_45",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_45",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_46",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_46",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_46",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_46",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_46",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_46",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_47",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_47",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_47",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_47",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_47",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_47",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_48",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_48",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_48",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_48",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_48",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_48",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_49",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_49",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_49",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_49",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_49",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_49",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_5",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_5",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_5",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_5",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_5",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_5",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_51",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_51",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_51",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_51",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_51",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_51",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_52",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_52",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_52",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_52",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_52",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_52",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_53",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_53",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_53",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_53",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_53",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_53",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_54",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_54",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_54",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_54",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_54",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_54",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_55",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_55",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_55",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_55",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_55",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_55",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_56",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_56",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_56",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_56",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_56",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_56",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_57",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_57",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_57",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_57",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_57",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_57",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_58",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_58",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_58",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_58",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_58",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_58",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_59",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_59",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_59",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_59",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_59",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_59",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_6",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_6",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_6",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_6",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_6",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_6",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_60",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_60",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_60",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_60",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_60",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_60",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_61",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_61",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_61",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_61",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_61",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_61",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_62",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_62",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_62",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_62",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_62",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_62",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_63",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_63",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_63",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_63",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_63",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_63",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_64",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_64",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_64",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_64",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_64",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_64",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_65",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_65",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_65",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_65",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_65",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_65",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_66",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_66",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_66",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_66",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_66",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_66",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_67",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_67",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_67",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_67",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_67",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_67",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_68",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_68",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_68",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_68",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_68",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_68",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_69",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_69",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_69",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_69",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_69",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_69",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_7",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_7",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_7",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_7",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_7",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_7",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_70",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_70",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_70",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_70",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_70",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_70",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_71",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_71",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_71",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_71",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_71",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_71",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_72",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_72",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_72",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_72",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_72",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_72",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_73",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_73",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_73",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_73",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_73",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_73",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_74",
+      "bug_class": "wrong-return",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_74",
+      "bug_class": "wrong-return",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_74",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_74",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_74",
+      "bug_class": "wrong-return",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_74",
+      "bug_class": "wrong-return",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_75",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_75",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_75",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_75",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_75",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_75",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_76",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_76",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_76",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_76",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_76",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_76",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_77",
+      "bug_class": "missing-guard",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_77",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_77",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_77",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_77",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_77",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_78",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_78",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_78",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_78",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_78",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_78",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_79",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_79",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_79",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_79",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_79",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_79",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_8",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_8",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_8",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_8",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_8",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_8",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_80",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_80",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_80",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_80",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_80",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_80",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_81",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_81",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_81",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_81",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_81",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_81",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_82",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_82",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_82",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_82",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_82",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_82",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_83",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_83",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_83",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_83",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_83",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_83",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_84",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_84",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_84",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_84",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_84",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_84",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_85",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_85",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_85",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_85",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_85",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_85",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_86",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_86",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_86",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_86",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_86",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_86",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_87",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_87",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_87",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_87",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_87",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_87",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_88",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_88",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_88",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_88",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_88",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_88",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_89",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_89",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_89",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_89",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_89",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_89",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_9",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_9",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_9",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_9",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_9",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_9",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_90",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_90",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_90",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_90",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_90",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_90",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_91",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_91",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_91",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_91",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_91",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_91",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_92",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_92",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_92",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_92",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_92",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_92",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_93",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_93",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_93",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_93",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_93",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_93",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_94",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_94",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_94",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_94",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_94",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_94",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_95",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_95",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_95",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_95",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_95",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_95",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_96",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_96",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_96",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_96",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_96",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_96",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_97",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_97",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_97",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_97",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_97",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_97",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": true
+    },
+    {
+      "task_id": "HumanEval_98",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_98",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_98",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_98",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_98",
+      "bug_class": "off-by-one",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_98",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_99",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_99",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_99",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_99",
+      "bug_class": "wrong-operator",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_99",
+      "bug_class": "wrong-constant",
+      "abstain": false,
+      "repaired": false
+    },
+    {
+      "task_id": "HumanEval_99",
+      "bug_class": "wrong-variable",
+      "abstain": false,
+      "repaired": false
+    }
+  ]
+}

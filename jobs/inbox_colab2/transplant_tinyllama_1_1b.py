@@ -1,5 +1,10 @@
 import os, json, subprocess, sys, tempfile, time, urllib.request, base64, zipfile
 
+# release any residual CUDA memory from a previous failed job in this kernel
+import torch as _torch, gc as _gc
+_gc.collect()
+_torch.cuda.empty_cache()
+
 # the Colab peft/torchao mismatch: drop torchao so peft takes the default path
 subprocess.run([sys.executable, "-m", "pip", "uninstall", "-y", "torchao"],
                capture_output=True)

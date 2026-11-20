@@ -1,1 +1,8 @@
-[status] RUNNING probe_colab2
+[status] ERROR in 0.0s
+
+Traceback (most recent call last):
+  File "/tmp/ipykernel_3704/3773378202.py", line 66, in run_job
+    exec(code, {"__name__": "__worker__", "__job_id__": job_id})
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 1, in <module>
+NameError: name 'aW1wb3J0IHRpbWUsIHRvcmNoCnByaW50KCJwcm9iZSBjb2xhYjIgYWxpdmUg' is not defined

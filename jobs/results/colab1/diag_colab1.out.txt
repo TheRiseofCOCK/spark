@@ -1,1 +1,8 @@
-[status] RUNNING diag_colab1
+[status] ERROR in 0.0s
+
+Traceback (most recent call last):
+  File "/tmp/ipykernel_600/1146869902.py", line 66, in run_job
+    exec(code, {"__name__": "__worker__", "__job_id__": job_id})
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 1, in <module>
+NameError: name 'aW1wb3J0IG9zLCB0aW1lCm9zLm1ha2VkaXJzKCIvY29udGVudC9vdXRwdXRz' is not defined

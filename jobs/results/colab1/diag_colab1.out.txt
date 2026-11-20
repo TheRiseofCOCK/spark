@@ -1,1 +1,3 @@
-[status] RUNNING diag_colab1
+[status] OK in 0.0s
+diag print works
+
